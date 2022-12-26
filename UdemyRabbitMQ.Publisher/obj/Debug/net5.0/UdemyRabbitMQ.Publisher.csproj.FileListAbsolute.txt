@@ -1,0 +1,17 @@
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\UdemyRabbitMQ.Publisher.exe
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\UdemyRabbitMQ.Publisher.deps.json
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\UdemyRabbitMQ.Publisher.runtimeconfig.json
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\UdemyRabbitMQ.Publisher.runtimeconfig.dev.json
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\UdemyRabbitMQ.Publisher.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\ref\UdemyRabbitMQ.Publisher.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\UdemyRabbitMQ.Publisher.pdb
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.csproj.AssemblyReference.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.AssemblyInfoInputs.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.AssemblyInfo.cs
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\ref\UdemyRabbitMQ.Publisher.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.pdb
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\obj\Debug\net5.0\UdemyRabbitMQ.Publisher.genruntimeconfig.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Publisher\bin\Debug\net5.0\RabbitMQ.Client.dll

@@ -1,0 +1,12 @@
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\bin\Debug\net5.0\SharedModel.deps.json
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\bin\Debug\net5.0\SharedModel.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\bin\Debug\net5.0\ref\SharedModel.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\bin\Debug\net5.0\SharedModel.pdb
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\SharedModel.csproj.AssemblyReference.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\SharedModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\SharedModel.AssemblyInfoInputs.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\SharedModel.AssemblyInfo.cs
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\SharedModel.csproj.CoreCompileInputs.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\SharedModel.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\ref\SharedModel.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\SharedModel\obj\Debug\net5.0\SharedModel.pdb

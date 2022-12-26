@@ -1,0 +1,17 @@
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\UdemyRabbitMQ.Subscriber.exe
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\UdemyRabbitMQ.Subscriber.deps.json
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\UdemyRabbitMQ.Subscriber.runtimeconfig.json
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\UdemyRabbitMQ.Subscriber.runtimeconfig.dev.json
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\UdemyRabbitMQ.Subscriber.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\ref\UdemyRabbitMQ.Subscriber.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\UdemyRabbitMQ.Subscriber.pdb
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.csproj.AssemblyReference.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.AssemblyInfoInputs.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.AssemblyInfo.cs
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\ref\UdemyRabbitMQ.Subscriber.dll
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.pdb
+C:\Users\oğuzhan\Desktop\Asp.Net\UdemyRabbitMQ\UdemyRabbitMQ.Subscriber\obj\Debug\net5.0\UdemyRabbitMQ.Subscriber.genruntimeconfig.cache
